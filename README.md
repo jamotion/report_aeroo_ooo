@@ -1,8 +1,13 @@
 report_aeroo_ooo
 ================
 
-Aeroo Reports OpenOffice Connector for Odoo (8.0)
+The official release of aeroo reports for Odoo 8.0 is available
+---------------------------------------------------------------
 
-For further Informations on Aeroo Reports please visit the main repository containing all plugins.
+So please call all your questions, issues and pull request on https://github.com/aeroo.
 
-Main Repository https://github.com/jamotion/aeroo.git
+Thanks for all your help! 
+
+Kind Regards 
+
+Renzo
